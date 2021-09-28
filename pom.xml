@@ -17,7 +17,7 @@
     <name>SpringCD</name>
 
     <properties>
-        <version.java>11</version.java>
+        <version.java>1.7</version.java>
     </properties>
 
     <dependencies>
